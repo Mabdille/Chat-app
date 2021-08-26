@@ -12,7 +12,7 @@ const LoginForm = () => {
 
         // usernam / password => chatengine -> give messages
         // works out -> logged in 
-        // error -> try with new username
+        // error -> try with new usernames
     }
 
     return (
